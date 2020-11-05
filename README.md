@@ -1,3 +1,4 @@
+```
 |-- undefined
     |-- .browserslistrc
     |-- .editorconfig
@@ -154,3 +155,5 @@
     |           |-- echart.vue
     |           |-- index.vue
     |-- static
+
+```
